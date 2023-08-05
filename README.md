@@ -8,6 +8,7 @@ Steps involved:
 - Design interactive reports in Power BI for effective data visualization.
 
 Getting Started: 
+
 To view this Simple Power BI Sales Analysis report, follow these steps:
 - Download Microsoft Power BI from Microsoft's website.
 - Open the "PowerBI_Sales_Analysis.pbix" file in Power BI to explore the project.
